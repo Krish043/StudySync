@@ -37,24 +37,25 @@ git clone https://github.com/Krish043/StudySync.git
 cd StudySync
 # Then open index.html in your browser
 No setup or dependencies — it’s a static project. Just open in browser!
+```
+---
 
-📌 Future Scope
- Add smooth scroll + AOS animations
-
- Connect to backend to dynamically load course data
-
- Integrate contact form with email backend (e.g., EmailJS)
-
-📬 Contact
-Made with 💙 by Krrish Gangajaliya
+## 📌 Future Scope
+ 
+- Add smooth scroll + AOS animations
+- Connect to backend to dynamically load course data
+- Integrate contact form with email backend (e.g., EmailJS)
+---
+Made with 💙 by Krish Gangajaliya
+---
 
 📧 Email: krishgangajaliya1@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/krish-gangajaliya-802b79266/
 
-🌐 Portfolio: krish-gangajaliya.vercel.app
+🌐 Portfolio: https://krish-gangajaliya.vercel.app/
 
-🐱 GitHub: github.com/Krish043
+🐱 GitHub: https://github.com/krish043/
 
 ⭐ Like this project?
 If you found this helpful or inspiring, don’t forget to ⭐ the repo and share it!
