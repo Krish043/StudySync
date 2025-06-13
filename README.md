@@ -1,6 +1,6 @@
 # 📘 StudySync – Landing Page for Online Learning Platform
 
-[![Live Preview](https://img.shields.io/badge/Live%20Site-Click%20Here-0aa1ff?style=for-the-badge&logo=vercel&logoColor=white)](https://studysync-nda2.onrender.com/)
+[![Live Preview](https://img.shields.io/badge/Live%20Site-Visit--Now-0aa1ff?style=for-the-badge&logo=render&logoColor=white)](https://studysync-nda2.onrender.com/)
 
 A modern, responsive landing page built using **HTML**, **Tailwind CSS**, and a touch of **Vanilla JS**. StudySync is designed as a fictional homepage for an ed-tech platform, with clean design and engaging layout.
 
